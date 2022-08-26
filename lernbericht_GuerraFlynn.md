@@ -3,11 +3,11 @@ von Flynn Guerra, xX_FreeStyleMlger_Xx
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+In diesem Lernbericht geht es darum, wie man eine Session-ID in JSF anzeigen kann.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Ich habe in diesem Projekt gelernt wie man eine SessionID durch Java code generiert und dann in JSF anhand einer xhtml anzeigen kann.
 
 ## Beschreibung
 
