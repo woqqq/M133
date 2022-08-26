@@ -29,7 +29,7 @@ Ich habe in diesem Projekt gelernt wie man eine SessionID durch Java code generi
 ```Xhtml
 <h:outputLabel value="Ihre Sitzung wurde eröffnet: #{SitzVer.sessionID}" />
 ```
-<img src="sessionID.png" alt="Session ID auf Website angezeigt"/>
+![sessionID](https://user-images.githubusercontent.com/69577267/186889480-f0416f4a-c379-4940-aaa9-ac38f254794b.png)
 
 ## Verifikation
 
