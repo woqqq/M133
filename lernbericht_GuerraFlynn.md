@@ -18,13 +18,13 @@ Ich habe in diesem Projekt gelernt wie man eine SessionID durch Java code generi
 * Ein gut dokumentierter Code-Fetzen
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
-'''Java
+```Java
     public String getSessionID() {
         FacesContext fCtx = FacesContext.getCurrentInstance();
         HttpSession session = (HttpSession) fCtx.getExternalContext().getSession(false);
         return session.getId();
     }
-'''
+```
 
 ## Verifikation
 
