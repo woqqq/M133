@@ -1,5 +1,5 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+von Flynn Guerra, xX_FreeStyleMlger_Xx
 
 ## Einleitung
 
