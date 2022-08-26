@@ -26,6 +26,10 @@ Ich habe in diesem Projekt gelernt wie man eine SessionID durch Java code generi
     }
 ```
 
+```Xhtml
+<h:outputLabel value="Ihre Sitzung wurde eröffnet: #{SitzVer.sessionID}" />
+```
+
 ## Verifikation
 
 ✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
