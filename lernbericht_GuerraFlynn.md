@@ -29,6 +29,7 @@ Ich habe in diesem Projekt gelernt wie man eine SessionID durch Java code generi
 ```Xhtml
 <h:outputLabel value="Ihre Sitzung wurde eröffnet: #{SitzVer.sessionID}" />
 ```
+s
 
 ## Verifikation
 
