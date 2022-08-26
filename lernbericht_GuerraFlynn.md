@@ -1,5 +1,5 @@
 # Lern-Bericht
-von Flynn Guerra, xX_FreeStyleMlger_Xx
+von Flynn Guerra
 
 ## Einleitung
 
