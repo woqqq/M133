@@ -25,7 +25,7 @@ Ich habe in diesem Projekt gelernt wie man eine SessionID durch Java code generi
 
 ## Verifikation
 
-
+Ich habe anhand der Infos unseres Auftrages und der Effektiven Anwendung eines SessionID getters gelernt wie man diese Technologie in JSF umsetzen kann. Umgesetzt wurde das ganze über den Controller mit einer get-Methode, welche dann in dem xhmtl file aufgerufen wird.
 
 # Reflektion zum Arbeitsprozess
 
